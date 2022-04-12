@@ -1,8 +1,10 @@
+import react from "react";
+import Pictures from "./components/Pictures";
+
 function App() {
   return (
-    <div>
-      Hello world!
-    </div>
+    <Pictures />
+     
   );
 }
 
